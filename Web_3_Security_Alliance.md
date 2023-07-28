@@ -1,4 +1,4 @@
-# Web3 Security Alliance
+# Security Alliance
 
 - **Team Name:** Open Security Alliance
 - **Payment Address:** Fiat [][][][][]
