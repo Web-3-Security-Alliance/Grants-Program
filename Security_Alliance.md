@@ -217,5 +217,5 @@ Using experience gained from the implementation of the WSHC, the Security Allian
 
 **How did you hear about the Grants Program?** 
 
-Personal recommendation!
+Mentioned during talks with Vince Di Giambattista and Chrissy Hill of Parity
 
